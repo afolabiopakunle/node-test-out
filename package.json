@@ -1,0 +1,12 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Restarting node",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index"
+  },
+  "author": "Afolabi Opakunle",
+  "license": "ISC"
+}
